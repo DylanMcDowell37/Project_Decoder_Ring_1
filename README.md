@@ -2,7 +2,7 @@
 
 > You're planning a surprise birthday party for one of your friends who _loves_ escape rooms and puzzles. What better way to practice your new coding skills than to build an application that will help you encode and decode all kinds of fun messages?
 
-![Home view of Decoder Ring](./docs/home.png)
+![Home view of Decoder Ring](./src/home(1).png)
 
 This project is designed to test your ability to build complex algorithms as well as write unit tests with Mocha & Chai to test your algorithms. Before taking on this module, you should be comfortable with the learning objectives listed below. You will not need to make any edits to HTML or CSS for this project.
 
@@ -51,7 +51,7 @@ Below is a checklist of what you need to accomplish.
 
 ### Caesar Shift
 
-![Caesar shift](./docs/caesar.png)
+![Caesar shift](./src/caesar.png)
 
 The Caesar Shift is a type of substitution cipher originally used by Julius Caesar to protect messages of military significance. It relies on taking the alphabet and "shifting" letters to the right or left, based on the typical alphabetic order.
 
@@ -142,7 +142,7 @@ polybius("44324233521254134", false); //> false
 
 ### Substitution Cipher
 
-![Substitution cipher](./docs/substitution.jpeg)
+![Substitution cipher](./src/substitution.jpeg)
 
 The Substitution Cipher requires a standard alphabet and a substitution alphabet. Letters from the standard alphabet will be transposed to the standard alphabet. This cipher requires that the recipient have the substitution alphabet; otherwise, it will be difficult for them to decode the message.
 
